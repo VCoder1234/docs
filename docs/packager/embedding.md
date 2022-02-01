@@ -18,7 +18,4 @@ You can embed the output of the TurboWarp Packager into another website:
 
 Depending on the environment you used, where you stored the project, and what you named it, the `src` attribute will vary.
 
- - If you used "Plain HTML", it's just the path to the HTML file.
- - If you used "Zip", it's the path to the file `index.html` contained within the extracted zip.
-
 If you have controls enabled, add 48 to the value of `height` to avoid the stage getting shrunk.
