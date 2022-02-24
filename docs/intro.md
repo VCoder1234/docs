@@ -6,7 +6,6 @@ hide_table_of_contents: true
 
 # TurboWarp Documentation
 
-[TurboWarp](https://turbowarp.org/) is a mod of Scratch with improved performance, dark mode, addons, and more. This is the place where its extra documentation goes.
 
 Related projects:
 
